@@ -123,4 +123,4 @@ Three data-backed recommendations:
 
 ---
 
-*Built by Jessica Dan-Odhomo · [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)*
+*Built by Jessica Dan-Odhomo · [LinkedIn](https://www.linkedin.com/in/jessica-dan-odhomo) · [GitHub](https://github.com/Teekaayyy)*
