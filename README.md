@@ -1,7 +1,7 @@
 # 🚲 Cyclistic Bike-Share Case Study
 ### Google Data Analytics Capstone | Case Study 1
-### 📓 View Full Notebook
-### 👉 [Run & view on Kaggle](https://www.kaggle.com/code/YOUR_USERNAME/cyclistic-bike-share-analysis)
+#### 📓 View Full Notebook
+#### 👉 [Run & view on Kaggle](https://www.kaggle.com/code/YOUR_USERNAME/cyclistic-bike-share-analysis)
 ---
 
 ## 🎯 Business Task
